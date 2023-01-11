@@ -1,5 +1,5 @@
 # IrisClassification_SKLearn
-Aplicação de técnica de Machine Learning para classificação de 3 tipos flor iris, utilizando de recursos das bibliotecas:
+Application of Machine Learning technique to classify 3 types of iris flower, using library resources:
 * Sklearn
 * Pandas
 * Numpy
